@@ -18,5 +18,4 @@
 - Revenue by Plan
 - Revenue by Country
 - Monthly Revenue
-- 
-**Role:** Data Analytics Intern
+
