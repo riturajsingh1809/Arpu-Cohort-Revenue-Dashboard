@@ -1,7 +1,6 @@
 
 # ARPU & Cohort Revenue Dashboard #
 **Developed by:** RITU RAJ SINGH**
-**Role:** Data Analytics Intern
 
 ## Tools Used
 - Python
@@ -19,3 +18,5 @@
 - Revenue by Plan
 - Revenue by Country
 - Monthly Revenue
+- 
+**Role:** Data Analytics Intern
